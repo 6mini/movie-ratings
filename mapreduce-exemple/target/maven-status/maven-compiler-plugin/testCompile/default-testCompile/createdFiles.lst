@@ -1,0 +1,3 @@
+com/fastcampus/hadoop/WordCountTestWithMockito.class
+com/fastcampus/hadoop/WordCountTest.class
+com/fastcampus/hadoop/MovieAverageRateTopKTest.class
